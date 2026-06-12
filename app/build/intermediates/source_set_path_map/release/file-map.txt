@@ -1,0 +1,64 @@
+com.example.scanit.app-jetified-camera-core-1.3.1-0 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\0462f4cb87a6fe1912512d382e73f891\transformed\jetified-camera-core-1.3.1\res
+com.example.scanit.app-jetified-material3-1.1.1-1 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\0556f004262f6c73a8941e13fc846507\transformed\jetified-material3-1.1.1\res
+com.example.scanit.app-jetified-foundation-layout-release-2 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\055edc8907b25f0322d7f07d7e5a4833\transformed\jetified-foundation-layout-release\res
+com.example.scanit.app-appcompat-1.6.1-3 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\067fd224697f47bf71b5649652ac6a15\transformed\appcompat-1.6.1\res
+com.example.scanit.app-jetified-appcompat-resources-1.6.1-4 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\0e64ddf3c5011049343263c15c2d5074\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.scanit.app-lifecycle-livedata-core-2.6.2-5 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\2606bc5cd8f40476319f4779c0928118\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.scanit.app-jetified-ui-text-release-6 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\27b6fc8c89949b30e75a0634ae79cf2c\transformed\jetified-ui-text-release\res
+com.example.scanit.app-jetified-savedstate-ktx-1.2.1-7 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\286befd98ebe339e3e053c674e61808a\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.scanit.app-jetified-annotation-experimental-1.3.1-8 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\28910a4edce6203c80d26973268a53dc\transformed\jetified-annotation-experimental-1.3.1\res
+com.example.scanit.app-lifecycle-runtime-2.6.2-9 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\2e23e90847193aacc27d7e5eba0ff03f\transformed\lifecycle-runtime-2.6.2\res
+com.example.scanit.app-jetified-material-ripple-release-10 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\2e31c64e3d2447dc6b2a3d584c03ad79\transformed\jetified-material-ripple-release\res
+com.example.scanit.app-jetified-datastore-1.0.0-11 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\2f5dcd2bd39cc6a9e5a18f30febb8eb1\transformed\jetified-datastore-1.0.0\res
+com.example.scanit.app-jetified-emoji2-1.4.0-12 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\2fc8f12f4cd9c22bfc72e3302f01753b\transformed\jetified-emoji2-1.4.0\res
+com.example.scanit.app-jetified-datastore-preferences-1.0.0-13 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\399dbbd9b8d90c472f44f9c70d2a405e\transformed\jetified-datastore-preferences-1.0.0\res
+com.example.scanit.app-jetified-camera-camera2-1.3.1-14 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\3f60f4c8eb118ef3d4cb50157058703b\transformed\jetified-camera-camera2-1.3.1\res
+com.example.scanit.app-jetified-camera-lifecycle-1.3.1-15 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\403162e2a04d72c18fc0c2d6c6b355f0\transformed\jetified-camera-lifecycle-1.3.1\res
+com.example.scanit.app-fragment-1.3.6-16 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\45e4c4cb5b7ff6956c889ae898927f19\transformed\fragment-1.3.6\res
+com.example.scanit.app-jetified-foundation-release-17 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\49da21bca0d628e29ab175a1797f3b53\transformed\jetified-foundation-release\res
+com.example.scanit.app-jetified-camera-view-1.3.1-18 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\50603e175bd36e86c42df7a5b8c5f7c8\transformed\jetified-camera-view-1.3.1\res
+com.example.scanit.app-jetified-lifecycle-process-2.6.2-19 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\5b197e7078a63fe1ae4f3efb5cf35767\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.scanit.app-navigation-common-2.7.5-20 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\5d992a97e62e2e337c9130266d217815\transformed\navigation-common-2.7.5\res
+com.example.scanit.app-navigation-runtime-ktx-2.7.5-21 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\5fd746fe331ae30a72a73e55d297f310\transformed\navigation-runtime-ktx-2.7.5\res
+com.example.scanit.app-jetified-animation-core-release-22 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\6215edcd7d1ffcd31a30ef7049a320f6\transformed\jetified-animation-core-release\res
+com.example.scanit.app-jetified-ui-unit-release-23 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\6fa67aaa13f706199810c7164d038ac2\transformed\jetified-ui-unit-release\res
+com.example.scanit.app-jetified-play-services-basement-18.1.0-24 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\724f4f44355af21f5276f9dfa8744bd7\transformed\jetified-play-services-basement-18.1.0\res
+com.example.scanit.app-jetified-activity-ktx-1.8.1-25 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\7a1193231ca50dd368fe9252651b7c09\transformed\jetified-activity-ktx-1.8.1\res
+com.example.scanit.app-jetified-play-services-base-18.1.0-26 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\84b25cde351ff538259b0b7178dad6c3\transformed\jetified-play-services-base-18.1.0\res
+com.example.scanit.app-jetified-customview-poolingcontainer-1.0.0-27 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\858e4b4173d95bfa958e938cd451a028\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.scanit.app-jetified-startup-runtime-1.1.1-28 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\8c75c14c5695827d609ecd5d2823288e\transformed\jetified-startup-runtime-1.1.1\res
+com.example.scanit.app-jetified-lifecycle-runtime-ktx-2.6.2-29 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\8ea0fd0180787657c62eadf030f7dc4f\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.example.scanit.app-jetified-animation-release-30 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\9169f53f100ac517a9897105513b6472\transformed\jetified-animation-release\res
+com.example.scanit.app-jetified-camera-video-1.3.1-31 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\92ce2c81f45ea86e3e0fffd66c37f23f\transformed\jetified-camera-video-1.3.1\res
+com.example.scanit.app-jetified-savedstate-1.2.1-32 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\9cd3d278f793e71174557aeff230dd78\transformed\jetified-savedstate-1.2.1\res
+com.example.scanit.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-33 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\a017e1d1332126fd442f449d56c7f4a1\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.scanit.app-jetified-activity-compose-1.8.1-34 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\a6b8202d3b4eac8d1fce740a437ccdf8\transformed\jetified-activity-compose-1.8.1\res
+com.example.scanit.app-jetified-ui-release-35 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\a6c3c623c17209a44bab259439556780\transformed\jetified-ui-release\res
+com.example.scanit.app-lifecycle-viewmodel-2.6.2-36 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\a792605482331ff38cded9e55ec4213c\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.scanit.app-jetified-core-ktx-1.12.0-37 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\a9f1d543fb5122647167a2478ac4cbd2\transformed\jetified-core-ktx-1.12.0\res
+com.example.scanit.app-jetified-material-icons-core-release-38 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\acec0b435aa2d18f6831a6f4704fc09a\transformed\jetified-material-icons-core-release\res
+com.example.scanit.app-jetified-material-icons-extended-release-39 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\adba4eb5fac5781f0c1b88dba0bc153c\transformed\jetified-material-icons-extended-release\res
+com.example.scanit.app-jetified-profileinstaller-1.3.1-40 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\c710574ce3a9fc0467f101ae7680c48d\transformed\jetified-profileinstaller-1.3.1\res
+com.example.scanit.app-jetified-ui-tooling-preview-release-41 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\cd036ece93539d8ff816ff0a1998e6fc\transformed\jetified-ui-tooling-preview-release\res
+com.example.scanit.app-jetified-runtime-release-42 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\d17da68c5563e2304fce351e02dc83cc\transformed\jetified-runtime-release\res
+com.example.scanit.app-core-runtime-2.2.0-43 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\d7d37687df0033b78a678f862967034b\transformed\core-runtime-2.2.0\res
+com.example.scanit.app-jetified-navigation-compose-2.7.5-44 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\d81cb059d3b0c3d7b788b12e155d3f20\transformed\jetified-navigation-compose-2.7.5\res
+com.example.scanit.app-jetified-ui-geometry-release-45 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\dce1f87267b2efb010fa6ec2ee0af874\transformed\jetified-ui-geometry-release\res
+com.example.scanit.app-jetified-ui-graphics-release-46 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\de51b3cfe5c87be0e4e9fc7b84118ff0\transformed\jetified-ui-graphics-release\res
+com.example.scanit.app-jetified-lifecycle-viewmodel-compose-2.6.2-47 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\e3e309bc307e203e40ca66a652c62d53\transformed\jetified-lifecycle-viewmodel-compose-2.6.2\res
+com.example.scanit.app-jetified-lifecycle-viewmodel-ktx-2.6.2-48 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\e5348c87b6bf5ab6bc55f60570e18161\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\res
+com.example.scanit.app-navigation-common-ktx-2.7.5-49 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\ec54d4c32e97357816878abc16a38f20\transformed\navigation-common-ktx-2.7.5\res
+com.example.scanit.app-jetified-coil-base-2.5.0-50 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\ee0fcc56ac4584c2c321fd3b88cefb58\transformed\jetified-coil-base-2.5.0\res
+com.example.scanit.app-jetified-runtime-saveable-release-51 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\f087ad35f038ef6d080d623ebc3bf345\transformed\jetified-runtime-saveable-release\res
+com.example.scanit.app-jetified-emoji2-views-helper-1.4.0-52 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\f376929950f0f3e190b8ad3ce8172b11\transformed\jetified-emoji2-views-helper-1.4.0\res
+com.example.scanit.app-lifecycle-livedata-2.6.2-53 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\f7423e8006474bc58bdf381eeacfd81d\transformed\lifecycle-livedata-2.6.2\res
+com.example.scanit.app-jetified-activity-1.8.1-54 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\f787017578c1e4937d36f1c4cf2169dd\transformed\jetified-activity-1.8.1\res
+com.example.scanit.app-jetified-ui-util-release-55 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\f9f6dfc358ab9f05d1233de936b90214\transformed\jetified-ui-util-release\res
+com.example.scanit.app-core-1.12.0-56 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\fa491052a0c4e52c4bc12c333827ee1c\transformed\core-1.12.0\res
+com.example.scanit.app-navigation-runtime-2.7.5-57 C:\Users\mdsha\.gradle\caches\9.0-milestone-1\transforms\ffa57fb41c2e67620e2cbe5bba1a3e99\transformed\navigation-runtime-2.7.5\res
+com.example.scanit.app-resValues-58 D:\Gemini CLI Test\project 1\app\build\generated\res\resValues\release
+com.example.scanit.app-packageReleaseResources-59 D:\Gemini CLI Test\project 1\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.scanit.app-packageReleaseResources-60 D:\Gemini CLI Test\project 1\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.scanit.app-merged_res-61 D:\Gemini CLI Test\project 1\app\build\intermediates\merged_res\release
+com.example.scanit.app-main-62 D:\Gemini CLI Test\project 1\app\src\main\res
+com.example.scanit.app-release-63 D:\Gemini CLI Test\project 1\app\src\release\res

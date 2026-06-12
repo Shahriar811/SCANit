@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0F172A</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#E5E7EB</color>
+    <color name="purple_500">#2563EB</color>
+    <color name="purple_700">#1E293B</color>
+    <color name="teal_200">#E5E7EB</color>
+    <color name="teal_700">#475569</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">SCANit</string>
+    <string name="scan_document">Scan Document</string>
+    <string name="scan_from_camera">Scan from Camera</string>
+    <string name="scan_from_gallery">Scan from Gallery</string>
+    <style name="Theme.SCANit" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern minimal color palette -->
+    <color name="purple_200">#E5E7EB</color>
+    <color name="purple_500">#2563EB</color>
+    <color name="purple_700">#1E293B</color>
+    <color name="teal_200">#E5E7EB</color>
+    <color name="teal_700">#475569</color>
+    <color name="black">#0F172A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
